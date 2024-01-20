@@ -50,7 +50,7 @@ In the initial data preparation phase, we performed the following tasks:
 - Expected Amount by Opportunity Type
 - Opportunities by Industry
 
-### Key Takeaway :
+### Key Takeaways :
 
 The CRM System Enhancement project aims to revolutionize our customer relationship management by implementing user-friendly interfaces, integrated communication features, and robust analytics. 
 
